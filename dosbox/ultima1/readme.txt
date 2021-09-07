@@ -1,5 +1,5 @@
-This is an autosplitter script, livesplit layout/splits, and AutoHotkey script
- for Ultima 1 running as an Elf Wizard any% made by davideil.
+This is an autosplitter script, livesplit layout/splits, Cheat Engine cheat table file,
+ and AutoHotkey script for Ultima 1 running as an Elf Wizard any% made by davideil.
 
 AutoHotkey script explained:
 > Shift+1 to start it.
@@ -45,3 +45,6 @@ Splits explained:
 Notes:
 > You need 7000 experience(level 8), to be a Space Ace(kill >=20 aliens in space), 
 and rescue a princess to spawn a Time Machine.
+
+> Seems like everything is two-bytes in Cheat Engine for Ultima 1, 
+    don't forget to set that for new addresses.
