@@ -29,8 +29,8 @@ split
 	//print("current HealthLower is " + current.HealthLower);
 	//print("current HealthUpper is " + current.HealthUpper);
 	//print("current Honesty is " + current.Honesty);
-	print("current Location is " + current.Location);
-	print("current DngLevel is " + current.DngLevel);
+	//print("current Location is " + current.Location);
+	//print("current DngLevel is " + current.DngLevel);
 	
 	if (vars.split == 0 && current.Location == 24 && current.DngLevel == 0)
 	{
