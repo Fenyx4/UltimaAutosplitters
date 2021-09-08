@@ -18,16 +18,42 @@ state("DOSBox")
     short shuttle : "dosbox.exe",0x35B6D8,0x12A0A;
     short alienKills : "dosbox.exe",0x35B6D8,0x12A0E;
     short mondainHP : "dosbox.exe",0x35B6D8,0x750E;
+    short princessX : "dosbox.exe",0x35B6D8,0x19BC0;
+    short overworld : "dosbox.exe",0x35B6D8,0x17A8C;
 }
 
 startup
 {
     vars.split = 0;
+    vars.rescued = false;
+
+    foreach (dynamic component in timer.Layout.Components) 
+    {
+        if (component.GetType().Name != "TextComponent") 
+            continue;
+
+        component.Settings.Text2 = "0";
+    }
 }
 
 update
 {
+    if (vars.rescued == true && current.princessX != 1)
+    {
+        vars.rescued = false;
+    }
 
+    foreach (dynamic component in timer.Layout.Components) 
+    {
+        if (component.GetType().Name != "TextComponent") 
+            continue;
+            
+        if (current.princessX == 1 && current.overworld == 0 && vars.rescued == false) 
+        {
+            component.Settings.Text2 = (Int16.Parse(component.Settings.Text2) + 1).ToString();
+            vars.rescued = true;
+        }
+    }
 }
 
 start
@@ -42,7 +68,17 @@ start
 init
 {
 	int split;
+    bool rescued;
+    vars.rescued = false;
 	vars.split = 0;
+
+    foreach (dynamic component in timer.Layout.Components) 
+    {
+        if (component.GetType().Name != "TextComponent") 
+            continue;
+
+        component.Settings.Text2 = "0";
+    }
 }
 
 split
