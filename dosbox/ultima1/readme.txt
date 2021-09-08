@@ -50,3 +50,5 @@ and rescue a princess to spawn a Time Machine.
 
 > Seems like everything is two-bytes in Cheat Engine for Ultima 1, 
     don't forget to set that for new addresses.
+
+> Dosbox version is 0.74-2.1, so use that for Cheat Engine compatibility.
