@@ -46,5 +46,7 @@ Notes:
 > You need 7000 experience(level 8), to be a Space Ace(kill >=20 aliens in space), 
 and rescue a princess to spawn a Time Machine.
 
+> There is a princesses saved counter.
+
 > Seems like everything is two-bytes in Cheat Engine for Ultima 1, 
     don't forget to set that for new addresses.

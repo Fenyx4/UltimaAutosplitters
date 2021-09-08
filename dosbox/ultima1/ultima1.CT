@@ -4,6 +4,7 @@
     <CheatEntry>
       <ID>31</ID>
       <Description>"player hp ptr"</Description>
+      <LastState Value="9999" RealAddress="0AE2499E"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -14,6 +15,7 @@
     <CheatEntry>
       <ID>27</ID>
       <Description>"player food ptr"</Description>
+      <LastState Value="9932" RealAddress="0AE249B0"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D4</Address>
@@ -24,6 +26,7 @@
     <CheatEntry>
       <ID>35</ID>
       <Description>"player exp ptr"</Description>
+      <LastState Value="8136" RealAddress="0AE249AE"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -34,6 +37,7 @@
     <CheatEntry>
       <ID>36</ID>
       <Description>"player coin ptr"</Description>
+      <LastState Value="9999" RealAddress="0AE249AC"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -44,6 +48,7 @@
     <CheatEntry>
       <ID>30</ID>
       <Description>"player str ptr"</Description>
+      <LastState Value="999" RealAddress="0AE249A0"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -54,6 +59,7 @@
     <CheatEntry>
       <ID>32</ID>
       <Description>"player agi ptr"</Description>
+      <LastState Value="999" RealAddress="0AE249A2"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -64,6 +70,7 @@
     <CheatEntry>
       <ID>29</ID>
       <Description>"player sta ptr"</Description>
+      <LastState Value="999" RealAddress="0AE249A4"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D0</Address>
@@ -74,6 +81,7 @@
     <CheatEntry>
       <ID>33</ID>
       <Description>"player cha ptr"</Description>
+      <LastState Value="999" RealAddress="0AE249A6"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -84,6 +92,7 @@
     <CheatEntry>
       <ID>28</ID>
       <Description>"player wis ptr"</Description>
+      <LastState Value="999" RealAddress="0AE249A8"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D0</Address>
@@ -94,6 +103,7 @@
     <CheatEntry>
       <ID>34</ID>
       <Description>"player int ptr"</Description>
+      <LastState Value="999" RealAddress="0AE249AA"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -104,6 +114,7 @@
     <CheatEntry>
       <ID>37</ID>
       <Description>"red gem ptr"</Description>
+      <LastState Value="1" RealAddress="0AE249D4"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -114,6 +125,7 @@
     <CheatEntry>
       <ID>38</ID>
       <Description>"blue gem ptr"</Description>
+      <LastState Value="1" RealAddress="0AE249D8"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -124,6 +136,7 @@
     <CheatEntry>
       <ID>47</ID>
       <Description>"white gem ptr"</Description>
+      <LastState Value="1" RealAddress="0AE249DA"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -134,6 +147,7 @@
     <CheatEntry>
       <ID>48</ID>
       <Description>"green gem ptr"</Description>
+      <LastState Value="1" RealAddress="0AE249D6"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -144,6 +158,7 @@
     <CheatEntry>
       <ID>39</ID>
       <Description>"vac suit ptr"</Description>
+      <LastState Value="1" RealAddress="0AE249E4"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -154,6 +169,7 @@
     <CheatEntry>
       <ID>54</ID>
       <Description>"reflect suit ptr"</Description>
+      <LastState Value="2" RealAddress="0AE249E6"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -164,6 +180,7 @@
     <CheatEntry>
       <ID>49</ID>
       <Description>"pistol ptr"</Description>
+      <LastState Value="0" RealAddress="0AE24A00"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -174,6 +191,7 @@
     <CheatEntry>
       <ID>40</ID>
       <Description>"phazor ptr"</Description>
+      <LastState Value="1" RealAddress="0AE24A04"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -184,6 +202,7 @@
     <CheatEntry>
       <ID>52</ID>
       <Description>"blaster ptr"</Description>
+      <LastState Value="99" RealAddress="0AE24A06"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -194,6 +213,7 @@
     <CheatEntry>
       <ID>50</ID>
       <Description>"raft ptr"</Description>
+      <LastState Value="0" RealAddress="0AE24A24"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -204,6 +224,7 @@
     <CheatEntry>
       <ID>58</ID>
       <Description>"frigate ptr"</Description>
+      <LastState Value="1" RealAddress="0AE24A26"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -214,6 +235,7 @@
     <CheatEntry>
       <ID>56</ID>
       <Description>"shuttle ptr"</Description>
+      <LastState Value="1" RealAddress="0AE24A2A"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -224,6 +246,7 @@
     <CheatEntry>
       <ID>42</ID>
       <Description>"time mach ptr"</Description>
+      <LastState Value="1" RealAddress="0AE24A2C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -234,6 +257,7 @@
     <CheatEntry>
       <ID>60</ID>
       <Description>"alien kills ptr"</Description>
+      <LastState Value="23" RealAddress="0AE24A2E"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -244,6 +268,7 @@
     <CheatEntry>
       <ID>51</ID>
       <Description>"ladder up ptr"</Description>
+      <LastState Value="0" RealAddress="0AE24A14"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -254,6 +279,7 @@
     <CheatEntry>
       <ID>62</ID>
       <Description>"ladder down ptr"</Description>
+      <LastState Value="2" RealAddress="0AE24A12"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -264,6 +290,7 @@
     <CheatEntry>
       <ID>41</ID>
       <Description>"create ptr"</Description>
+      <LastState Value="6" RealAddress="0AE24A18"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -274,6 +301,7 @@
     <CheatEntry>
       <ID>64</ID>
       <Description>"destroy ptr"</Description>
+      <LastState Value="99" RealAddress="0AE24A1A"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -284,6 +312,7 @@
     <CheatEntry>
       <ID>72</ID>
       <Description>"cube quest ptr"</Description>
+      <LastState Value="0" RealAddress="0AE249C6"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -294,6 +323,7 @@
     <CheatEntry>
       <ID>82</ID>
       <Description>"grave quest ptr"</Description>
+      <LastState Value="0" RealAddress="0AE249C4"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -304,6 +334,7 @@
     <CheatEntry>
       <ID>84</ID>
       <Description>"south sign quest ptr"</Description>
+      <LastState Value="0" RealAddress="0AE249C8"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -314,6 +345,7 @@
     <CheatEntry>
       <ID>73</ID>
       <Description>"creeper quest ptr"</Description>
+      <LastState Value="0" RealAddress="0AE249CA"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -324,6 +356,7 @@
     <CheatEntry>
       <ID>90</ID>
       <Description>"pillar quest ptr"</Description>
+      <LastState Value="0" RealAddress="0AE249CC"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -334,6 +367,7 @@
     <CheatEntry>
       <ID>74</ID>
       <Description>"lich quest ptr"</Description>
+      <LastState Value="0" RealAddress="0AE249CE"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -344,6 +378,7 @@
     <CheatEntry>
       <ID>85</ID>
       <Description>"tower knowledge quest ptr"</Description>
+      <LastState Value="0" RealAddress="0AE249D0"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -354,6 +389,7 @@
     <CheatEntry>
       <ID>86</ID>
       <Description>"balron quest ptr"</Description>
+      <LastState Value="0" RealAddress="0AE249D2"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -364,6 +400,7 @@
     <CheatEntry>
       <ID>105</ID>
       <Description>"food steps ptr"</Description>
+      <LastState Value="1" RealAddress="0AE29A9E"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -374,6 +411,7 @@
     <CheatEntry>
       <ID>43</ID>
       <Description>"player sprite ptr"</Description>
+      <LastState Value="10" RealAddress="0AE24A3C"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -384,6 +422,7 @@
     <CheatEntry>
       <ID>44</ID>
       <Description>"player loc ptr"</Description>
+      <LastState Value="39" RealAddress="0AE249BC"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -394,6 +433,7 @@
     <CheatEntry>
       <ID>2</ID>
       <Description>"player hp(mondain battle) ptr"</Description>
+      <LastState Value="11837" RealAddress="0AE1B46E"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6DC</Address>
@@ -404,6 +444,7 @@
     <CheatEntry>
       <ID>23</ID>
       <Description>"mondain hp ptr"</Description>
+      <LastState Value="685" RealAddress="0AE1952E"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -414,6 +455,7 @@
     <CheatEntry>
       <ID>95</ID>
       <Description>"player x loc town ptr"</Description>
+      <LastState Value="19" RealAddress="0AE2BC4E"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
@@ -422,23 +464,135 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>101</ID>
-      <Description>"town prison key ptr"</Description>
+      <ID>117</ID>
+      <Description>"player y loc town ptr"</Description>
+      <LastState Value="17" RealAddress="0AE2BC50"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
       <Offsets>
-        <Offset>17a90</Offset>
+        <Offset>19c30</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>137</ID>
+      <Description>"player world loc ptr"</Description>
+      <LastState Value="0" RealAddress="0AE29AAA"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>dosbox.exe+35B6D8</Address>
+      <Offsets>
+        <Offset>17A8A</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>135</ID>
+      <Description>"player world loc2 ptr"</Description>
+      <LastState Value="0" RealAddress="0AE29AAC"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>dosbox.exe+35B6D8</Address>
+      <Offsets>
+        <Offset>17A8C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>101</ID>
+      <Description>"town prison key ptr"</Description>
+      <LastState Value="0" RealAddress="0AE29AB0"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>dosbox.exe+35B6D8</Address>
+      <Offsets>
+        <Offset>17A90</Offset>
       </Offsets>
     </CheatEntry>
     <CheatEntry>
       <ID>102</ID>
       <Description>"princess+guard aggro"</Description>
+      <LastState Value="0" RealAddress="0AE2BC56"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>2 Bytes</VariableType>
       <Address>dosbox.exe+35B6D8</Address>
       <Offsets>
         <Offset>19c36</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>119</ID>
+      <Description>"step count ptr"</Description>
+      <LastState Value="5294" RealAddress="0AE29AB8"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>dosbox.exe+35B6D8</Address>
+      <Offsets>
+        <Offset>17a98</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>120</ID>
+      <Description>"time not moving ptr"</Description>
+      <LastState Value="81" RealAddress="0AE2CD26"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>dosbox.exe+35B6D8</Address>
+      <Offsets>
+        <Offset>1AD06</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>121</ID>
+      <Description>"jester x loc ptr"</Description>
+      <LastState Value="6" RealAddress="0AE2BC18"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>dosbox.exe+35B6D8</Address>
+      <Offsets>
+        <Offset>19BF8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>122</ID>
+      <Description>"jester y loc ptr"</Description>
+      <LastState Value="3" RealAddress="0AE2BC1A"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>dosbox.exe+35B6D8</Address>
+      <Offsets>
+        <Offset>19BFA</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>126</ID>
+      <Description>"princess x loc ptr"</Description>
+      <LastState Value="34" RealAddress="0AE2BBE0"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>dosbox.exe+35B6D8</Address>
+      <Offsets>
+        <Offset>19BC0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>125</ID>
+      <Description>"princess y loc ptr"</Description>
+      <LastState Value="6" RealAddress="0AE2BBE2"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>dosbox.exe+35B6D8</Address>
+      <Offsets>
+        <Offset>19BC2</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>133</ID>
+      <Description>"princess door ptr"</Description>
+      <LastState Value="15627" RealAddress="0AE29D42"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>dosbox.exe+35B6D8</Address>
+      <Offsets>
+        <Offset>17D22</Offset>
       </Offsets>
     </CheatEntry>
   </CheatEntries>
